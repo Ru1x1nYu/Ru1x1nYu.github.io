@@ -27,4 +27,4 @@ branches:
     - resource
 env:
  global:
-   - GH_REF: https://github.com/Ru1x1nYu/Ru1x1nYu.github.io.git
+   - GH_REF: github.com/Ru1x1nYu/Ru1x1nYu.github.io.git
