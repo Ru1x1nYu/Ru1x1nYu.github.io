@@ -58,7 +58,7 @@ counter:
   archive_posts:
     zero: No posts.
     one: 1 post.
-    other: "%d posts in total."
+    other: "不会吧不会吧？就%d篇啊？"
 
 state:
   posts: posts
@@ -69,14 +69,14 @@ search:
   placeholder: Searching...
 
 cheers:
-  um: Um..
+  um: 呵
   ok: OK
   nice: Nice
   good: Good
   great: Great
   excellent: Excellent
 
-keep_on: Keep on posting.
+keep_on: 就这？
 
 symbol:
   comma: ", "

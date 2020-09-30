@@ -59,7 +59,7 @@ state:
 search:
   placeholder: Searching...
 cheers:
-  um: Um..
+  um: 呵
   ok: OK
   nice: Legal
   good: Bom

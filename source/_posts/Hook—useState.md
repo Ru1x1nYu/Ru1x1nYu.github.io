@@ -28,6 +28,7 @@ tags:
 ```
 ## 介绍 ##
 + React函数组件没有实例，也没有状态，class组件可以使用this.   state.[data]去操作函数状态函数组件的状态需要使用useState钩子去声明定义。
+
 ## 使用 ##
 在react文件中引入：
 > import React, { useState } from 'react';
@@ -35,7 +36,7 @@ tags:
 在函数顶部调用useState，传入参数为当前状态的初始值，可以不传，默认空值。useState方法返回两个值，第一个是当前声明状态的属性，第二个是修改该状态的方法。
 
 `const [name, setName] = useState('aYu')`
-### 原理 ###
+## 原理 ##
 ```
 let memoizedStates = [] // 多个useState
 let index = 0
